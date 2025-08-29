@@ -36,10 +36,10 @@ Crea un archivo .env con el siguiente formato:
         CHAT_ID_1=123456789
         CHAT_ID_2=987654321
 
-        #agrupaciones y cuentas a monitorear
-        AGRUPACIONES=agrupacion1, agrupacion2
-        CUENTAS_INFORMATICA=cuenta1, cuenta2
-        CUENTAS_EXACTAS=cuenta1, cuenta2
+        #Sectores y cuentas a monitorear
+        Sector= sector1, sector2
+        Cuentas_bloque1=cuenta1, cuenta2
+        Cuentas_bloque2=cuenta1, cuenta2
 # 🖥 Uso
 1. Iniciar el bot
 bash
